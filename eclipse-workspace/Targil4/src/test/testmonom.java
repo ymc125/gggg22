@@ -27,7 +27,7 @@
 					assertEquals("-2.0*X^3",m2.toString());
 				}//fhgsbvjh22grsfb
 				//njb
-				//3555555
+				//355555566
 		
 				@Test
 				void testF() throws Exception {
