@@ -25,7 +25,9 @@
 					assertEquals("-2.0*X^3",m1.toString());
 					Monom m2 = new Monom(m1);
 					assertEquals("-2.0*X^3",m2.toString());
-				}
+				}//fhgsbvjh22grsfb
+				//njb
+				//3555555
 		
 				@Test
 				void testF() throws Exception {
